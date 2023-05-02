@@ -6,3 +6,4 @@ NAME=DEVOPS
 echo "my name is: $NAME"
 hi
 Pooja
+kkkk
